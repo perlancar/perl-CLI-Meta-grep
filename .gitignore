@@ -2,3 +2,4 @@ CLI-Meta-grep-*
 .build
 *~
 nytprof*
+.DS_Store
